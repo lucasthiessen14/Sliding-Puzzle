@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+.board-style {
+    border: 2px solid black;
+    background: rgb(255, 255, 255);
+    margin: 0px auto;
+    position: relative
+}
+
+.piece-style {
+    background: rgb(191, 68, 23);
+    vertical-align: middle;
+    color: rgb(255, 255, 255);
+    border: 0.5px solid white;
+    cursor: pointer;
+    position: absolute;
+   
+}
